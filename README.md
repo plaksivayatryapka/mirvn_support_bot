@@ -1,8 +1,4 @@
 # mirvn_support_bot
-python 2.7 compatible
+Needed: Python 2.7, telepot library (pip install telepot), bot token
 
-telepot library needed
-
-insert token for telegram bot
-
-tested in ubuntu 16.04
+Tested in ubuntu 16.04.3 LTS
